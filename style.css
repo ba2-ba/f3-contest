@@ -96,10 +96,10 @@ button {
 }
 button:hover{
     scale: 1.05;
-    background: linear-gradient(180deg, #e06304 0%, #e29206 100%);
+    background: linear-gradient(180deg, #d5f5e0 0%, #8ba689 100%);
 }
 #signupForm input:focus{
-    background: linear-gradient(180deg, #d99764 0%, #dfb265 100%);
+    background: linear-gradient(180deg, #96b5e0 0%, #9ea5ef 100%);
 }
 
 .message {
